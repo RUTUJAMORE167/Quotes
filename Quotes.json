@@ -8,6 +8,10 @@
       "Role Model": "A.P.J Abdul Kalam",
       "Quotes": "Dream,Dream,Dream. Dreams Transform into thoughts and thoughts result in action"
     },
+        {
+      "Role Model": "Douglas Adams",
+      "Quotes": "I love deadlines. I love the whooshing noise they make as they go by."
+    },
     {
       "Role Model": "Issac Newton",
       "Quotes": "I can calculate the motion of heavenly bodies but not the madness of people."
@@ -24,7 +28,8 @@
         {
       "Role Model": "Leonardo da Vincim"
       "Quotes": "Common Sense is that which judges the things given to it by other senses."
-    }    
+    }  
+
         ]
 
 }
